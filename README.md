@@ -1,5 +1,7 @@
 # Password Manager 🔐
 
+![Release](https://img.shields.io/github/v/release/anja-catic/password-manager?label=Release&style=for-the-badge)
+
 A simple desktop application for managing passwords, built with Python, Tkinter, and SQLite.
 
 ## 🧠 Features
